@@ -52,6 +52,13 @@ Other Functions
 - Delete Habit: Removes the selected habit from the tracker.
 - Reset All Progress: Deletes all habits and their tracking data.
 
+Technologies Used
+- Java (Main language)
+- Swing (Graphical User Interface)
+- ActionListeners (User interactions)
+
+
+
 
 
 
